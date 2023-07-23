@@ -1,0 +1,1 @@
+Building micrograd from scratch with Andrej Krapathy.
